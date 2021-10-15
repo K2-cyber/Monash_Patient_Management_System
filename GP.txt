@@ -1,0 +1,8 @@
+Gandalf,Gray,0489379855,Paediatric,Clayton Clinic,5
+Saruman,White,0487346706,Neurology,Melbourne Clinic,3
+Radagast,Brown,0466759978,Urology,Melbourne Clinic,2
+James,Kroos,0492377665,Dentist,Clayton Clinic,1
+Roben,Van,0455668909,General,Caulfield Clinic,6
+Lion,Ben,0477688856,Paediatric,Caulfield Clinic,4
+Ronaldo,Chris,0123456789,General,Brunswick Clinic,2
+Chen,Franky,0987654321,Dentist,Brunswick Clinic,9

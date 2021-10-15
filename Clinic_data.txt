@@ -1,0 +1,4 @@
+Clayton Clinic,19 Court Road Clayton,0311189999,8 AM(Mon-Sat)
+Melbourne Clinic,241 Bourke Street CBD,0344522456,8:30 AM(Mon-Fri)
+Caulfield Clinic,455 Best Street Caufield,0355533055,9:00 AM(Mon-Sun)
+Brunswick Clinic, 301 Joker Street Brunswick,0123456789,11:59 AM(Mon-Fri)
